@@ -415,7 +415,7 @@ const Contact = () => {
           </div>
 
           {/* EmailJS Setup Instructions */}
-          <div className="mt-16 bg-white/10 backdrop-blur-sm p-8 rounded-2xl border border-white/20 max-w-4xl mx-auto">
+          {/*<div className="mt-16 bg-white/10 backdrop-blur-sm p-8 rounded-2xl border border-white/20 max-w-4xl mx-auto">
             <h4 className="text-xl font-bold text-white mb-4 flex items-center">
               <FaLightbulb className="mr-2 text-yellow-400" />
               Setup Instructions
@@ -430,7 +430,7 @@ const Contact = () => {
                 <li>Test your setup!</li>
               </ol>
             </div>
-          </div>
+          </div>*/}
 
           {/* Bottom CTA */}
           <div className="text-center mt-16">
